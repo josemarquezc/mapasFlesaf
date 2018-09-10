@@ -154,5 +154,64 @@
 			"title": "Farewell Bend Campground",
 			"marker-size": "small"
 		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-33.4463031,-70.6161411]
+		},
+		"properties": {
+			"flush": true,
+			"shower": true,
+			"vault": false,
+			"description": "Pantalla Digital",
+			"title": "Manuel Montt con Santa Isabel",
+			"marker-size": "small"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-33.425052,-70.6162703]
+		},
+		"properties": {
+			"flush": true,
+			"shower": true,
+			"vault": false,
+			"description": "Pantalla Digital",
+			"title": "Pedro de Valdivia",
+			"marker-size": "small"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-33.4532837,-70.6461717]
+		},
+		"properties": {
+			"flush": true,
+			"shower": true,
+			"vault": false,
+			"description": "Pantalla Digital",
+			"title": "10 de Julio",
+			"marker-size": "small"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-33.4370673,-70.6342845]
+		},
+		"properties": {
+			"flush": true,
+			"shower": true,
+			"vault": false,
+			"description": "Punto central de la región metropolitana",
+			"title": "Plaza Italia",
+			"marker-size": "small"
+		}
 	}]
 }
