@@ -94,7 +94,7 @@
 			"flush": false,
 			"shower": false,
 			"vault": false,
-			"description": "",
+			"description": "something",
 			"title": "Farewell Bend",
 			"marker-size": "small"
 		}
@@ -158,7 +158,7 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [-33.4463031,-70.6161411]
+			"coordinates": [-33.4463031, -70.6161411]
 		},
 		"properties": {
 			"flush": true,
@@ -172,7 +172,7 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [-33.425052,-70.6162703]
+			"coordinates": [-33.425052, -70.6162703]
 		},
 		"properties": {
 			"flush": true,
@@ -186,7 +186,7 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [-33.4532837,-70.6461717]
+			"coordinates": [-33.4532837, -70.6461717]
 		},
 		"properties": {
 			"flush": true,
@@ -200,7 +200,7 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [-33.4370673,-70.6342845]
+			"coordinates": [-33.4370673, -70.6342845]
 		},
 		"properties": {
 			"flush": true,
