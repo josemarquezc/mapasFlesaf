@@ -19,7 +19,7 @@
 			"Valla": false,
 			"description": "Pantalla Digital",
 			"title": "Manuel Montt con Santa Isabel",
-			"icon": "pantallaIcon",
+			"iconF": "pantallaIcon",
 			"comuna": "Providencia"
 		}
 	},
@@ -41,7 +41,7 @@
 			"Valla": false,
 			"description": "Pasarela",
 			"title": "Pasarela Pajaritos (G.Marin) acceso desde Alameda",
-			"icon": "companyImage",
+			"iconF": "companyImage",
 			"comuna": "Maipu"
 		}
 	},
@@ -63,7 +63,7 @@
 			"Valla": false,
 			"description": "Mega Formato",
 			"title": "Americo Vespucio /  El Salto (Acceso la piramide) BNUP",
-			"icon": "companyImage",
+			"iconF": "companyImage",
 			"comuna": "Recoleta"
 		}
 	}
