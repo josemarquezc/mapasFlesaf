@@ -28,7 +28,7 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [-33.45853, -70,71161]
+			"coordinates": [-33.45853, -70.71161]
 		},
 		"properties": {
 			"Building-Wrap": false,
