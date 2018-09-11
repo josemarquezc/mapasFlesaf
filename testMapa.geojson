@@ -5,13 +5,13 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [-70.6161411, -33.4463031]
+			"coordinates": [-33.4463031, -70.6161411]
 		},
 		"properties": {
 			"Building-Wrap": false,
 			"Mega-Formato": false,
 			"Muro-Ciego": false,
-			"Pantalla-Digital": false,
+			"Pantalla-Digital": true,
 			"Pasarela": false,
 			"Terracero": false,
 			"Top-Site": false,
@@ -19,6 +19,54 @@
 			"Valla": false,
 			"description": "Pantalla Digital",
 			"title": "Manuel Montt con Santa Isabel",
+			"icon": "pantallaIcon",
+			"comuna": "Providencia"
+			"marker-size": "small"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-33.45853, -70,71161]
+		},
+		"properties": {
+			"Building-Wrap": false,
+			"Mega-Formato": false,
+			"Muro-Ciego": false,
+			"Pantalla-Digital": false,
+			"Pasarela": true,
+			"Terracero": false,
+			"Top-Site": false,
+			"Unipole": false,
+			"Valla": false,
+			"description": "Pasarela",
+			"title": "Pasarela Pajaritos (G.Marin) acceso desde Alameda",
+			"icon": "companyImage",
+			"comuna": "Maipu"
+			"marker-size": "small"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-33.39458, -70.62507]
+		},
+		"properties": {
+			"Building-Wrap": false,
+			"Mega-Formato": true,
+			"Muro-Ciego": false,
+			"Pantalla-Digital": false,
+			"Pasarela": false,
+			"Terracero": false,
+			"Top-Site": false,
+			"Unipole": false,
+			"Valla": false,
+			"description": "Mega Formato",
+			"title": "Americo Vespucio /  El Salto (Acceso la piramide) BNUP",
+			"icon": "companyImage",
+			"comuna": "Recoleta"
 			"marker-size": "small"
 		}
 	}
