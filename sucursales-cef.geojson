@@ -19,7 +19,7 @@
 			"region-rm": false,
 			"description": "Sucursal Ejemplo Antofagasta",
 			"title": "Maipu, esquina Capitan Carlos Condell",
-			"iconF": "companyImage",
+			"imagen": "img/sucursales/antofagasta.jpg",
 			"comuna": "Antofagasta"
 		}
 	},
@@ -41,7 +41,7 @@
 			"region-rm": true,
 			"description": "Sucursal Ejemplo Santiago",
 			"title": "Pasarela Pajaritos (G.Marin) acceso desde Alameda",
-			"iconF": "companyImage",
+			"imagen": "img/sucursales/santiago.jpg",
 			"comuna": "Maipu"
 		}
 	},
@@ -63,7 +63,7 @@
 			"region-rm": false,
 			"description": "Sucursal Ejemplo Concepción",
 			"title": "Anibal Pinto, esquina Bernardo O'Higgins",
-			"iconF": "companyImage",
+			"imagen": "img/sucursales/concepcion.jpg",
 			"comuna": "Concepción "
 		}
 	}
