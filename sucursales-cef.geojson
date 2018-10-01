@@ -5,22 +5,22 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [-70.6161411, -33.4463031]
+			"coordinates": [-70.3982075, -23.6501941]
 		},
 		"properties": {
-			"Building-Wrap": false,
-			"Mega-Formato": false,
-			"Muro-Ciego": false,
-			"Pantalla-Digital": true,
-			"Pasarela": false,
-			"Terracero": false,
-			"Top-Site": false,
-			"Unipole": false,
-			"Valla": false,
-			"description": "Pantalla Digital",
-			"title": "Manuel Montt con Santa Isabel",
-			"iconF": "pantallaIcon",
-			"comuna": "Providencia"
+			"region-1": false,
+			"region-2": true,
+			"region-3": false,
+			"region-4": false,
+			"region-5": false,
+			"region-6": false,
+			"region-7": false,
+			"region-8": false,
+			"region-rm": false,
+			"description": "Sucursal Ejemplo Antofagasta",
+			"title": "Maipu, esquina Capitan Carlos Condell",
+			"iconF": "companyImage",
+			"comuna": "Antofagasta"
 		}
 	},
 	{
@@ -30,16 +30,16 @@
 			"coordinates": [-70.7116100, -33.4585300]
 		},
 		"properties": {
-			"Building-Wrap": false,
-			"Mega-Formato": false,
-			"Muro-Ciego": false,
-			"Pantalla-Digital": false,
-			"Pasarela": true,
-			"Terracero": false,
-			"Top-Site": false,
-			"Unipole": false,
-			"Valla": false,
-			"description": "Pasarela",
+			"region-1": false,
+			"region-2": false,
+			"region-3": false,
+			"region-4": false,
+			"region-5": false,
+			"region-6": false,
+			"region-7": false,
+			"region-8": false,
+			"region-rm": true,
+			"description": "Sucursal Ejemplo Santiago",
 			"title": "Pasarela Pajaritos (G.Marin) acceso desde Alameda",
 			"iconF": "companyImage",
 			"comuna": "Maipu"
@@ -49,22 +49,22 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [-70.6250700, -33.3945800]
+			"coordinates": [-73.0509581, -36.8278265]
 		},
 		"properties": {
-			"Building-Wrap": false,
-			"Mega-Formato": true,
-			"Muro-Ciego": false,
-			"Pantalla-Digital": false,
-			"Pasarela": false,
-			"Terracero": false,
-			"Top-Site": false,
-			"Unipole": false,
-			"Valla": false,
-			"description": "Mega Formato",
-			"title": "Americo Vespucio /  El Salto (Acceso la piramide) BNUP",
+			"region-1": false,
+			"region-2": false,
+			"region-3": false,
+			"region-4": false,
+			"region-5": false,
+			"region-6": false,
+			"region-7": false,
+			"region-8": true,
+			"region-rm": false,
+			"description": "Sucursal Ejemplo Concepción",
+			"title": "Anibal Pinto, esquina Bernardo O'Higgins",
 			"iconF": "companyImage",
-			"comuna": "Recoleta "
+			"comuna": "Concepción "
 		}
 	}
 	]
